@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matteo Signorini / MyPage"
+title                    : "Matteo Signorini / Academic Portofolio"
 title_separator          : "-"
 name                     : &name "Matteo Signorini"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Matteo Signorini, PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Nokia Bell Labs Researcher"
+  location         : "Paris"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
