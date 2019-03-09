@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Short Bio"
+title                    : "Short Biography"
 title_separator          : "-"
 name                     : &name "Matteo Signorini"
 description              : &description "personal description"
