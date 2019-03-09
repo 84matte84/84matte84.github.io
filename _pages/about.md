@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I received the Master degree in Computer Science in 2012 from the department of Computer Science of the University of Rome ‘‘La Sapienza’’, under the tutoring of Prof. Roberto Di Pietro. After the Bachelor degree I started to work in the Security and PRivacy INnovation GRoup (SPRINGeR) at "Roma Tre" where I am still working as an External Research Collaborator.
+
+In September 2012 I moved to Barcelona and joined the Wireless Communications (WiCom) Research Group where I am actually working as a PhD student under the supervision of Prof. Vanesa Daza.
+
+My main research interests include security and privacy of Virtualized and Cloud Systems and the possibility of efficiently leveraging mobile devices to build on-the-fly secure clouds for a new set of applications and workloads.
+
 
 A data-driven personal website
 ======
