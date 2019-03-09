@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Portofolio"
+title                    : "Short Bio"
 title_separator          : "-"
 name                     : &name "Matteo Signorini"
 description              : &description "personal description"
