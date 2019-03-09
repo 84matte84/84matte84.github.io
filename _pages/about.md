@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the Master degree in Computer Science in 2012 from the department of Computer Science of the University of Rome ‘‘La Sapienza’’, under the tutoring of Prof. Roberto Di Pietro. After the Bachelor degree I started to work in the Security and PRivacy INnovation GRoup (SPRINGeR) at "Roma Tre" where I am still working as an External Research Collaborator.
-
-In September 2012 I moved to Barcelona and joined the Wireless Communications (WiCom) Research Group where I am actually working as a PhD student under the supervision of Prof. Vanesa Daza.
+I received the Master degree in Computer Science in 2012 from the department of Computer Science of the University of Rome ‘‘La Sapienza’’, under the tutoring of Prof. Roberto Di Pietro. In September 2012 I moved to Barcelona and joined the Wireless Communications (WiCom) Research Group where I took my PhD with my thesis on "Towards an Internet of Trust" under the supervision of Prof. Vanesa Daza.
 
 My main research interests include security and privacy of Virtualized and Cloud Systems and the possibility of efficiently leveraging mobile devices to build on-the-fly secure clouds for a new set of applications and workloads.
 
