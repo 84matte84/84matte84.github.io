@@ -8,4 +8,4 @@ date: 2018-08-23
 location: ""
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+A network of connected devices share a ledger of payment transactions between them under the form of a standard payment blockchain. A specific obligation blockchain is added to the network, also shared by the connected devices, and a link is made between the standard payment blockchain and the specific obligation blockchain, to reflect payments made in relation to obligations. A distributed credit method is built on top of this infrastructure.
