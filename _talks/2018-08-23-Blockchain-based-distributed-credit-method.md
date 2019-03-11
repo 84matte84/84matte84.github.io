@@ -3,7 +3,7 @@ title: "Blockchain-based distributed credit method"
 collection: talks
 type: "WAISBARD EREZ [IL]; SIGNORINI MATTEO [FR]; DI PIETRO ROBERTO [FR]"
 permalink: /talks/2018-08-23-Blockchain-based-distributed-credit-method
-venue: "Testing Institute of America 2014 Annual Conference"
+venue: "WO2018149706 (A1)"
 date: 2018-08-23
 location: ""
 ---
