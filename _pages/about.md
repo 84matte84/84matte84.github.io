@@ -15,9 +15,9 @@ My main research interest is privacy and security in distributed systems with a 
 
 Awards
 ------
-- [2018] Top Inventor at the Nokia Bell Labs
-- [2017] Best paper at the EUSPN conference
+- [2018] Nokia Bell Labs top inventor
+- [2017] EUSPN best paper
 - [2016] Nokia Bell Labs night out
 - [2014] Winner of the Cisco Security Grand Challenge
-- [2014] Ranked in the Top Layer at the Security CyberCamp 2014
+- [2014] Ranked in the top layer at the Security CyberCamp 2014
 
