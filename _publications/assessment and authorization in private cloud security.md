@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt:
 date: 2016-06-15
-venue: 'Security in the Private Cloud'
+venue: 'CRC Press - Security in the Private Cloud'
 paperurl:
 citation: 'Di Pietro, Roberto and Lombardi, Flavio and Signorini, Matteo: Assessment and Authorization in Private Cloud Security - Security in the Private Cloud, CRCPress - 2016'
 ---

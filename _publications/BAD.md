@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: 
 date: 2018-08-13
-venue: 'Journal 1'
+venue: 'arXiv '
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Matteo Signorini, Matteo Pontecorvi, Wael Kanoun and Roberto Di Pietro: "BAD: Blockchain Anomaly Detection", arXiv - 2018'
 ---

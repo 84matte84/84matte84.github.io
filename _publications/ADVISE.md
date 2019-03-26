@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt:
 date: 2018-07-01
-venue: '2018 IEEE World Congress on Services (SERVICES)'
+venue: 'IEEE World Congress on Services (SERVICES)'
 paperurl:
 citation: 'M. Signorini, M. Pontecorvi, W. Kanoun and R. Di Pietro, "ADvISE: Anomaly Detection tool for blockchaIn SystEms," 2018 IEEE World Congress on Services (SERVICES), San Francisco, CA, 2018, pp. 65-66.
 doi: 10.1109/SERVICES.2018.00046'
