@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Matteo Signorini, PhD"
   avatar           : "profile.jpg"
-  bio              : "Nokia Bell Labs Researcher"
+  bio              : "[Nokia Bell Labs](https://www.bell-labs.com) Researcher"
   location         : "Paris"
-  employer         :  "https://www.bell-labs.com"
+  employer         :  
   googlescholar    : 
   email            : "matteo.signorini@nokia.com"
   researchgate     : "https://www.researchgate.net/profile/Matteo_Signorini2"
