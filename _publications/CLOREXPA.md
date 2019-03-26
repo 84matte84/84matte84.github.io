@@ -1,5 +1,5 @@
 ---
-itle: "CloRExPa: Cloud resilience via execution path analysis"
+title: "CloRExPa: Cloud resilience via execution path analysis"
 collection: publications
 permalink: 
 excerpt: 
