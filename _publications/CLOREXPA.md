@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+itle: "CloRExPa: Cloud resilience via execution path analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 
+excerpt: 
+date: 2014-10-01
+venue: 'Future Generation Computer Systems'
+paperurl: 
+citation: 'Roberto Di Pietro, Flavio Lombardi, Matteo Signorini: "CloRExPa: Cloud resilience via execution path analysis", Future Generation Computer Systems - Volume 32, 2014, Pages 168-179, ISSN 0167-739X'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Despite the increasing interest around cloud concepts, current cloud technologies and services related to security are not mature enough to enable a more widespread industrial acceptance of cloud systems. Providing an adequate level of resilience to cloud services is a challenging problem due to the complexity of the environment as well as the need for efficient solutions that could preserve cloud benefits over other solutions. In this paper we provide the architectural design, implementation details, and performance results for a customizable resilience service solution for cloud guests. This solution leverages execution path analysis. In particular, we propose an architecture that can trace, analyze and control live virtual machine activity as well as intervened code and data modifications possibly due to either malicious attacks or software faults. Execution path analysis allows the virtual machine manager (VMM) to trace the VM state and to prevent such a guest from reaching faulty states.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://doi.org/10.1016/j.future.2012.05.010)
