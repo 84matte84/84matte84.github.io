@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "SOLDI: Secure Off-Line Disposable CredIts to Secure Mobile Micro Payments"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+excerpt: 
+date: 2015-12-30
+venue: 'ICETE Communications in Computer and Information Science'
+paperurl: 
+citation: 'Daza V., Di Pietro R., Lombardi F., Signorini M. (2015) SOLDI: Secure Off-Line Disposable CredIts to Secure Mobile Micro Payments. In: Obaidat M., Holzinger A., Filipe J. (eds) E-Business and Telecommunications. ICETE 2014. Communications in Computer and Information Science, vol 554. Springer, Cham'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Mobile-based payment schemes are increasingly widespread albeit suffering from a number of limitations. In fact, current protocols require at least one of the two parties to be on-line, i.e. connected either to a trusted third party or to a shared database. In particular, in scenarios where customers and vendors are persistently or intermittently disconnected from the network, no on-line payment is possible. This paper discusses SOLDI, a novel mobile micro-payment approach where all involved parties can be fully off-line. SOLDI relies solely on local data to perform the requested operations and improves over state-of-the-art approaches in terms of payment flexibility and security. SOLDI architecture and protocols are discussed in depth in this paper. Finally, security properties and main functionalities are analyzed in depth, showing SOLDI viability, benefits, and further development directions.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](<https://link.springer.com/chapter/10.1007/978-3-319-25915-4_18>)
+

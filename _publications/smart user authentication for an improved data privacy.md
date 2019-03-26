@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Smart User Authentication for an Improved Data Privacy"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+excerpt: 
+date: 2014-08-22
+venue: 'Advanced Research in Data Privacy. Studies in Computational Intelligence'
+paperurl: 
+citation: 'Daza V., Signorini M. (2015) Smart User Authentication for an Improved Data Privacy. In: Navarro-Arribas G., Torra V. (eds) Advanced Research in Data Privacy. Studies in Computational Intelligence, vol 567. Springer, Cham'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Market analysis predicts that in a few years, companies, universities, government agencies as well as common people in they daily life will increasingly adopt mobile computing systems thus increasingly enjoying the benefits of online, Internet-based services. However, such scenario will also expose user data privacy to severe attacks. This situation has led to the development of authentication approaches aimed at preventing unauthorized access to user data. Many different authentication approaches have been proposed over the last years, starting from basic password to more complex biometric solutions but all of them have proven to suffer from the same weaknesses. This issue drove us to design a solution based upon hardware intrinsic security features and aimed at guaranteeing a high level of data privacy while providing a user friendly authentication process. Our solution shows advanced features of data privacy policies definition making it a good candidate for the construction of future data privacy policies.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](<https://link.springer.com/chapter/10.1007/978-3-319-09885-2_19>)
+

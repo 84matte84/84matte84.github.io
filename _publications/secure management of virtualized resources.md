@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Secure Management of Virtualized Resources"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+excerpt: 
+date: 2016-10-14
+venue: 'Security in the Private Cloud'
+paperurl: 
+citation: 'R.D. Di Pietro, F. Lombardi, M. Signorini, "Secure Management of Virtualized Resources" in Security in the Private Cloud, CRC Press, 2016.'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+This comprehensive handbook serves as a professional reference and practitioner’s guide to today’s most complete and concise view of private cloud security. It explores practical solutions to a wide range of private cloud computing security issues. The knowledge imparted will enable readers to determine whether the private cloud security solution is appropriate for their organization from a business and technical perspective, to select the appropriate cloud security model, and to plan and implement a cloud security adoption and migration strategy.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](<https://books.google.it/books?hl=it&lr=&id=wxsNDgAAQBAJ&oi=fnd&pg=PA193&ots=pEZOhGzj6F&sig=wwJZiBJNcesOJWeRlJz3MGWW3Vc#v=onepage&q&f=false>)
+
