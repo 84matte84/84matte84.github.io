@@ -1,7 +1,7 @@
 ---
 title: "ADvISE: Anomaly Detection tool for blockchaIn SystEms"
 collection: publications
-permalink: /publication/ADVISE
+permalink: 
 excerpt:
 date: 2018-07-01
 venue: '2018 IEEE World Congress on Services (SERVICES)'
