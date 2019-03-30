@@ -19,5 +19,5 @@ Awards
 - [2017] EUSPN best paper
 - [2016] Nokia Bell Labs night out
 - [2014] Winner of the Cisco Security Grand Challenge
-- [2014] Ranked in the top layer at the Security CyberCamp 2014
+- [2014] PhD thesis ranked top class at the Security CyberCamp 2014
 
